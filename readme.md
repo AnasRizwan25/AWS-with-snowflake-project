@@ -1,4 +1,4 @@
-# 📌 Project: Stock Data Pipeline using Python, AWS & Snowflake
+# Project: Stock Data Pipeline using Python, AWS & Snowflake
 
 ![Data Pipeline Diagram](./Pictures/diagram.PNG)
 
