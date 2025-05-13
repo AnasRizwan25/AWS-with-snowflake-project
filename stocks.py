@@ -56,7 +56,7 @@ def main(interval):
     # interval = '1d'
     symbols = get_sp500_Symbols()
     print(len(symbols))
-    ingest_yfinance_data(symbols[:4],interval,filename)
+    ingest_yfinance_data(symbols[:5],interval,filename)
 
 if __name__ == "__main__":
     main('1d')
