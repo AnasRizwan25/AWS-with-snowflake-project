@@ -1,7 +1,8 @@
+# 📌 Project: Stock Data Pipeline using Python, AWS & Snowflake
+
 ![Data Pipeline Diagram](./Pictures/diagram.PNG)
 
 
-# 📌 Project: Stock Data Pipeline using Python, AWS & Snowflake
 
 - This project was built as part of the Saylani Zaitoon Ashraf Cloud Data Engineering course.
 
